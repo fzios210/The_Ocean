@@ -1,0 +1,55 @@
+@charset "utf-8";
+.container-fluid {
+    margin-top: auto;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+    text-align: center;
+    width: 100%;
+    height: 500px;
+}
+body {
+    background-color: hsla(120,61%,85%,0.70);
+}
+
+.butten {
+    font-family: "微軟正黑體", "標楷體";
+    font-weight: bold;
+}
+.nav-border {
+    border: none;
+
+}
+.img-style {
+    border: 3px solid hsla(0,0%,100%,1.00);
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    margin-left: 0px;
+    text-align: center;
+    position: relative;
+    left: 5px;
+}
+.p-style {
+    color: hsla(0,0%,51%,1.00);
+    font-family: "微軟正黑體", "標楷體";
+    font-weight: bold;
+    font-size: 20px;
+    text-align: left;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.col-12 h3   {
+    color: #FFFFFF;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    font-style: normal;
+    /* [disabled]font-weight: 900; */
+    font-size: 80px;
+    text-align: left;
+    text-shadow: 5px 5px #838181;
+    margin-bottom: 10px;
+}
+.bg   {
+    background-color: hsla(120,61%,85%,1.00);
+
+}
